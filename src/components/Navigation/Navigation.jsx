@@ -29,7 +29,7 @@ const Navigation = () => {
                             </>
                             :
                             <>
-                                <Nav.Link as="div">Regístrate par ver nuestra Tienda</Nav.Link>
+                                <Nav.Link as="div">Regístrate para ver nuestra Tienda</Nav.Link>
                             </>
 
                         }
